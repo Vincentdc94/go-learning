@@ -1,3 +1,3 @@
-# Oefeningen van de Go tour om syntax te leren
+# Oplossingen van de golang tour Opdrachten
 
-1) Loops en functies 
+Deze map bevat alle oefeningen vanop de golang.org tour om de basics van de taal wat onder de knie te hebben.
